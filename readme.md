@@ -40,11 +40,11 @@ I love solving complex problems and turning ideas into reality through code. Whe
 
 Thanks for stopping by! Let's build something amazing together 🚀
 #
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ziii08.ziii08)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ziii19.ziii19)
 
 ### 🕒 WakaTime Stats
 <!--[![wakatime](https://wakatime.com/badge/user/ff3affd3-42b1-43a2-a2be-dac3bd0589f1.svg)](https://wakatime.com/@ff3affd3-42b1-43a2-a2be-dac3bd0589f1)-->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ziii08&theme=tokyonight&layout=compact)](https://wakatime.com/@ziii19)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ziii19&theme=tokyonight&layout=compact)](https://wakatime.com/@ziii19)
 
 
 <!--
